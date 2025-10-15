@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Junaid Usmani</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fhow-can-developer-improve-skill-developing-mahim-hossain&psig=AOvVaw2bUC9z_5PE3op2r0Smb3ss&ust=1760611713746000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCODszvGDppADFQAAAAAdAAAAABAl](https://media.licdn.com/dms/image/v2/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=L-J1EFIJzlFXa-2bu5K-SqOT0PXYAaPZgXxnpneoF0U)">
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fhow-can-developer-improve-skill-developing-mahim-hossain&psig=AOvVaw2bUC9z_5PE3op2r0Smb3ss&ust=1760611713746000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCODszvGDppADFQAAAAAdAAAAABAl">
 
 - 🌱 I’m currently learning **Web-Development**
 
