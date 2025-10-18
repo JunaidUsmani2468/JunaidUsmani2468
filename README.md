@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Junaid Usmani</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">B-Tech Computer Science student with a passion for web development and technology.</h3>
 
-<img align="right" alt="coding" width="200" src="https://media.licdn.com/dms/image/v2/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=L-J1EFIJzlFXa-2bu5K-SqOT0PXYAaPZgXxnpneoF0U">
+<img align="right" alt="coding" width="250" src="https://media.licdn.com/dms/image/v2/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=L-J1EFIJzlFXa-2bu5K-SqOT0PXYAaPZgXxnpneoF0U">
 
 - 🌱 I’m currently learning **Web-Development**
 
@@ -12,10 +12,11 @@
 <a href="https://linkedin.com/in/junaid usmani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="junaid usmani" height="30" width="40" /></a>
 </p>
 
+---
 
 ### 🚀 Languages and Tools:
 
-<div align="center">
+<div align="left">
 
   <h3>🎨 Frontend</h3>
   <table>
