@@ -67,6 +67,10 @@
         <img src="https://skillicons.dev/icons?i=mysql" width="60" height="60" alt="MySQL" />
         <br>MySQL<br><sub>Relational Champ</sub>
       </td>
+       <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="60" height="60" alt="MongoDB" />
+        <br>MongoDB<br><sub>Document Ace</sub>
+      </td>
     </tr>
   </table>
   
