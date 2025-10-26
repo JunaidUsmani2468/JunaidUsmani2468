@@ -8,14 +8,16 @@
 - 📫 How to reach me
 
 <h3 align="left">Connect with me:</h3>
-   
--  E-Mail ID: **junaid22usmani@gmail.com**
 
--  Linkedin: **https://www.linkedin.com/in/junaid-developer**
-
-
-<p align="center">
-<a href="https://www.linkedin.com/in/junaid-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="junaid usmani" height="30" width="40" /></a>
+<p>
+  <a href="https://www.linkedin.com/in/junaid-developer" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>  
+</p>
+<p>
+  <a href="mailto:junaid22usmani@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
 ---
