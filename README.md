@@ -10,9 +10,9 @@
   </a>
 </p>
 
-<br>
-
 ---
+
+<br>
 
 <h3 align="center">B-Tech Computer Science student with a passion for web development and technology.</h3>
 
@@ -34,8 +34,6 @@ I'm a passionate **Full-Stack Web Developer**. I enjoy building scalable web app
 <br><br>
 
 ---
-
-<br>
 
 ### 🚀 Languages and Tools:
 
