@@ -2,7 +2,14 @@
   <img src="./github-poster.png" alt="Header Banner">
 </p>
 
-<h1 align="center">Hi 👋, I'm Junaid Usmani</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=HI+THERE%2C+I'm+Junaid+Usmani+%F0%9F%91%8B;A+PASSIONATE+FULL-STACK+DEVELOPER;A+LIFELONG+LEARNER." alt="Typing SVG">
+  </a>
+</p>
+
+---
+
 <h3 align="center">B-Tech Computer Science student with a passion for web development and technology.</h3>
 
 <img align="right" alt="coding" width="250" src="https://media.licdn.com/dms/image/v2/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=L-J1EFIJzlFXa-2bu5K-SqOT0PXYAaPZgXxnpneoF0U">
