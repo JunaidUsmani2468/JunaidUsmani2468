@@ -2,34 +2,42 @@
   <img src="./github-poster.png" alt="Header Banner">
 </p>
 
+<br>
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=HI+THERE%2C+I'm+Junaid+Usmani+%F0%9F%91%8B;A+PASSIONATE+FULL-STACK+DEVELOPER;A+LIFELONG+LEARNER." alt="Typing SVG">
   </a>
 </p>
 
+<br>
+
 ---
+
+<br>
 
 <h3 align="center">B-Tech Computer Science student with a passion for web development and technology.</h3>
 
+<br>
+
 <img align="right" alt="coding" width="250" src="https://media.licdn.com/dms/image/v2/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=L-J1EFIJzlFXa-2bu5K-SqOT0PXYAaPZgXxnpneoF0U">
 
-- 🌱 I’m currently learning **Web-Development**
+### 💫 About Me
 
-<h3 align="left">Connect with me:</h3>
+I'm a passionate **Full-Stack Web Developer**. I enjoy building scalable web applications, designing efficient database systems, and continuously improving my problem-solving skills.
 
-<p>
-  <a href="https://www.linkedin.com/in/junaid-developer" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>  
-</p>
-<p>
-  <a href="mailto:junaid22usmani@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+<br><br>
+
+- 🔭 Currently crafting awesome **Full-Stack Projects**.
+- 🌱 Mastering **Node.js, Express, REST APIs, SQL, and MongoDB**.
+- 💡 Enthusiastic about **clean code, scalable architectures, and system design**.
+- 🎯 My goal is to become a **Software Engineer** contributing to impactful projects.
+
+<br><br>
 
 ---
+
+<br>
 
 ### 🚀 Languages and Tools:
 
@@ -100,7 +108,11 @@
   </table>
 </div>
 
+<br><br>
+
 ---
+
+<br><br>
 
 ### 📊 My GitHub Stats
 
