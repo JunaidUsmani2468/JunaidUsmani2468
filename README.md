@@ -26,7 +26,7 @@
 
 I'm a passionate **Full-Stack Web Developer**. I enjoy building scalable web applications, designing efficient database systems, and continuously improving my problem-solving skills.
 
-<br><br>
+<br>
 
 - 🔭 Currently crafting awesome **Full-Stack Projects**.
 - 🌱 Mastering **Node.js, Express, REST APIs, SQL, and MongoDB**.
