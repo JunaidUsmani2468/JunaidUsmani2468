@@ -1,11 +1,13 @@
+<p align="center">
+  <img src="./github-header-banner (1).png.png" alt="Header Banner">
+</p>
+
 <h1 align="center">Hi 👋, I'm Junaid Usmani</h1>
 <h3 align="center">B-Tech Computer Science student with a passion for web development and technology.</h3>
 
 <img align="right" alt="coding" width="250" src="https://media.licdn.com/dms/image/v2/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=L-J1EFIJzlFXa-2bu5K-SqOT0PXYAaPZgXxnpneoF0U">
 
 - 🌱 I’m currently learning **Web-Development**
-
-- 📫 How to reach me
 
 <h3 align="left">Connect with me:</h3>
 
