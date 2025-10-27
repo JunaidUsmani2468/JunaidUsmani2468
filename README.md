@@ -26,7 +26,7 @@
 
 ### 🚀 Languages and Tools:
 
-<div align="left">
+<div align="center">
 
   <h3>🎨 Frontend</h3>
   <table>
@@ -92,3 +92,14 @@
     </tr>
   </table>
 </div>
+
+---
+
+### 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JunaidUsmani2468&show_icons=true&locale=en&theme=vision-friendly-dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JunaidUsmani2468&layout=compact&langs_count=7&theme=vision-friendly-dark&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+</p>
+
+<br>
