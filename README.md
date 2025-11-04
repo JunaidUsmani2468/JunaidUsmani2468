@@ -6,9 +6,25 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=HI+THERE%2C+I'm+Junaid+Usmani+%F0%9F%91%8B;A+PASSIONATE+FULL-STACK+DEVELOPER;A+LIFELONG+LEARNER." alt="Typing SVG">
+    <picture>
+      <source 
+        media="(prefers-color-scheme: dark)" 
+        srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=HI+THERE%2C+I'm+Junaid+Usmani+%F0%9F%91%8B;A+PASSIONATE+FULL-STACK+DEVELOPER;A+LIFELONG+LEARNER.">
+      <source 
+        media="(prefers-color-scheme: light)" 
+        srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=212121&center=true&vCenter=true&width=600&lines=HI+THERE%2C+I'm+Junaid+Usmani+%F0%9F%91%8B;A+PASSIONATE+FULL-STACK+DEVELOPER;A+LIFELONG+LEARNER.">
+      <img 
+        src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=212121&center=true&vCenter=true&width=600&lines=HI+THERE%2C+I'm+Junaid+Usmani+%F0%9F%91%8B;A+PASSIONATE+FULL-STACK+DEVELOPER;A+LIFELONG+LEARNER."
+        alt="Typing SVG">
+    </picture>
   </a>
 </p>
+
+<!-- <p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=HI+THERE%2C+I'm+Junaid+Usmani+%F0%9F%91%8B;A+PASSIONATE+FULL-STACK+DEVELOPER;A+LIFELONG+LEARNER." alt="Typing SVG">
+  </a>
+</p> -->
 
 <br>
 
