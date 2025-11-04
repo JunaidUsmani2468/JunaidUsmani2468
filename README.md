@@ -61,16 +61,16 @@ I'm a passionate **Full-Stack Web Developer**. I enjoy building scalable web app
     </tr>
     <tr>
       <td>
-        HTML5<br><sub>The Skeleton</sub>
+        HTML5<br><sub>The-Skeleton</sub>
       </td>
       <td>
-        CSS<br><sub>The Stylist</sub>
+        CSS<br><sub>The-Stylist</sub>
       </td>
       <td>
-        JavaScript<br><sub>The Engine</sub>
+        JavaScript<br><sub>The-Engine</sub>
       </td>
       <td>
-        Bootstrap<br><sub>Classic Grids</sub>
+        Bootstrap<br><sub>Classic-Grids</sub>
       </td>
     </tr>
   </table>
