@@ -48,19 +48,29 @@ I'm a passionate **Full-Stack Web Developer**. I enjoy building scalable web app
     <tr>
       <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=html" width="60" height="60" alt="HTML5" />
-        <br>HTML5<br><sub>The Skeleton</sub>
       </td>
       <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=css" width="60" height="60" alt="CSS3" />
-        <br>CSS<br><sub>The Stylist</sub>
       </td>
       <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=js" width="60" height="60" alt="JavaScript" />
-        <br>JavaScript<br><sub>The Engine</sub>
       </td>
       <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=bootstrap" width="60" height="60" alt="Bootstrap" />
-        <br>Bootstrap<br><sub>Classic Grids</sub>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        HTML5<br><sub>The Skeleton</sub>
+      </td>
+      <td>
+        CSS<br><sub>The Stylist</sub>
+      </td>
+      <td>
+        JavaScript<br><sub>The Engine</sub>
+      </td>
+      <td>
+        Bootstrap<br><sub>Classic Grids</sub>
       </td>
     </tr>
   </table>
