@@ -46,16 +46,16 @@ I'm a passionate **Full-Stack Web Developer**. I enjoy building scalable web app
   <h3>🎨 Frontend</h3>
   <table>
     <tr>
-      <td align="center" width="100">
+      <td align="center" width="150">
         <img src="https://skillicons.dev/icons?i=html" width="60" height="60" alt="HTML5" />
       </td>
-      <td align="center" width="100">
+      <td align="center" width="150">
         <img src="https://skillicons.dev/icons?i=css" width="60" height="60" alt="CSS3" />
       </td>
-      <td align="center" width="100">
+      <td align="center" width="150">
         <img src="https://skillicons.dev/icons?i=js" width="60" height="60" alt="JavaScript" />
       </td>
-      <td align="center" width="100">
+      <td align="center" width="150">
         <img src="https://skillicons.dev/icons?i=bootstrap" width="60" height="60" alt="Bootstrap" />
       </td>
     </tr>
@@ -80,11 +80,17 @@ I'm a passionate **Full-Stack Web Developer**. I enjoy building scalable web app
     <tr>
       <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=express" width="60" height="60" alt="Express.js" />
-        <br>Express<br><sub>API Builder</sub>
       </td>
       <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=nodejs" width="60" height="60" alt="Node.js" />
-        <br>Node.js<br><sub>Runtime Power</sub>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Express<br><sub>API-Builder</sub>
+      </td>
+      <td>
+        Node.js<br><sub>Runtime-Power</sub>
       </td>
     </tr>
   </table>
