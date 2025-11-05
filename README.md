@@ -73,16 +73,16 @@ I'm a passionate **Full-Stack Web Developer**. I enjoy building scalable web app
   <h3>🎨 Frontend</h3>
   <table>
     <tr>
-      <td align="center" width="130" height="130">
+      <td align="center" width="100" height="100">
         <img src="https://skillicons.dev/icons?i=html" width="60" height="60" alt="HTML5" />
       </td>
-      <td align="center" width="130" height="130">
+      <td align="center" width="100" height="100">
         <img src="https://skillicons.dev/icons?i=css" width="60" height="60" alt="CSS3" />
       </td>
-      <td align="center" width="130" height="130">
+      <td align="center" width="100" height="100">
         <img src="https://skillicons.dev/icons?i=js" width="60" height="60" alt="JavaScript" />
       </td>
-      <td align="center" width="130" height="130">
+      <td align="center" width="100" height="100">
         <img src="https://skillicons.dev/icons?i=bootstrap" width="60" height="60" alt="Bootstrap" />
       </td>
     </tr>
@@ -105,10 +105,10 @@ I'm a passionate **Full-Stack Web Developer**. I enjoy building scalable web app
   <h3>⚙️ Backend</h3>
   <table>
     <tr>
-      <td align="center" width="130" height="130">
+      <td align="center" width="100" height="100">
         <img src="https://skillicons.dev/icons?i=express" width="60" height="60" alt="Express.js" />
       </td>
-      <td align="center" width="130" height="130">
+      <td align="center" width="100" height="100">
         <img src="https://skillicons.dev/icons?i=nodejs" width="60" height="60" alt="Node.js" />
       </td>
     </tr>
@@ -125,10 +125,10 @@ I'm a passionate **Full-Stack Web Developer**. I enjoy building scalable web app
   <h3>🗄️ Database</h3>
   <table>
     <tr>
-      <td align="center" width="130" height="130">
+      <td align="center" width="100" height="100">
         <img src="https://skillicons.dev/icons?i=mysql" width="60" height="60" alt="MySQL" />
       </td>
-       <td align="center" width="130" height="130">
+       <td align="center" width="100" height="100">
         <img src="https://skillicons.dev/icons?i=mongodb" width="60" height="60" alt="MongoDB" />
       </td>
     </tr>
@@ -145,10 +145,10 @@ I'm a passionate **Full-Stack Web Developer**. I enjoy building scalable web app
   <h3>🔄 Version Control</h3>
   <table>
     <tr>
-      <td align="center" width="130" height="130">
+      <td align="center" width="100" height="100">
         <img src="https://skillicons.dev/icons?i=git" width="60" height="60" alt="Git" />
       </td>
-      <td align="center" width="130" height="130">
+      <td align="center" width="100" height="100">
         <img src="https://skillicons.dev/icons?i=github" width="60" height="60" alt="GitHub" />
       </td>
     </tr>
