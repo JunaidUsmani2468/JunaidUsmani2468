@@ -82,9 +82,6 @@ I'm a passionate **Full-Stack Web Developer**. I enjoy building scalable web app
       <td align="center" width="100" height="100">
         <img src="https://skillicons.dev/icons?i=js" width="60" height="60" alt="JavaScript" />
       </td>
-      <td align="center" width="100" height="100">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="60" height="60" alt="Bootstrap" />
-      </td>
     </tr>
     <tr>
       <td>
@@ -95,9 +92,6 @@ I'm a passionate **Full-Stack Web Developer**. I enjoy building scalable web app
       </td>
       <td>
         JavaScript<br><sub>The-Engine</sub>
-      </td>
-      <td>
-        Bootstrap<br><sub>Classic-Grids</sub>
       </td>
     </tr>
   </table>
@@ -158,6 +152,25 @@ I'm a passionate **Full-Stack Web Developer**. I enjoy building scalable web app
       </td>
       <td>
         GitHub<br><sub>Code's-Home</sub>
+      </td>
+    </tr>
+  </table>
+  <h3>🛠️ Frameworks & Libraries</h3>
+  <table>
+    <tr>
+      <td align="center" width="100" height="100">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="60" height="60" alt="Bootstrap" />
+      </td>
+      <td align="center" width="100" height="100">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="60" height="60" alt="Tailwind CSS" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Bootstrap<br><sub>Classic-Grids</sub>
+      </td>
+      <td>
+        Tailwind<br><sub>Utility First</sub>
       </td>
     </tr>
   </table>
