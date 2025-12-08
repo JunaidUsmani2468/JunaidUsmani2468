@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=JunaidUsmani2468&label=Profile%20views&color=0e75b6&style=flat" alt="JunaidUsmani2468" /> 
+<img src="https://komarev.com/ghpvc/?username=JunaidUsmani2468&label=Profile%20views&color=0e75b6&style=flat" alt="JunaidUsmani2468" /> 
 
 <p align="center">
   <img src="./github-poster.png" alt="Header Banner">
@@ -39,7 +39,7 @@
   </a>
 </p>
 
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <br>
 
@@ -66,7 +66,7 @@ I'm a passionate **Full-Stack Web Developer**. I enjoy building scalable web app
 
 <br><br>
 
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ### 🚀 Languages and Tools:
 
@@ -180,7 +180,7 @@ I'm a passionate **Full-Stack Web Developer**. I enjoy building scalable web app
 
 <br><br>
 
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <br>
 
@@ -224,3 +224,11 @@ I'm a passionate **Full-Stack Web Developer**. I enjoy building scalable web app
 </p>
 
 <br>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+<h3 align="center">
+  <code>console.log("Made with 💖 by <a href="https://www.linkedin.com/in/junaid-developer" target="_blank">Junaid</a>");</code>
+</h3>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
