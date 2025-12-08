@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JunaidUsmani2468&label=Profile%20views&color=0e75b6&style=flat" alt="JunaidUsmani2468" /> 
+
 <p align="center">
   <img src="./github-poster.png" alt="Header Banner">
 </p>
