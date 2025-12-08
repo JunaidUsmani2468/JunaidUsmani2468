@@ -195,14 +195,14 @@ I'm a passionate **Full-Stack Web Developer**. I enjoy building scalable web app
   <picture>
     <source 
       media="(prefers-color-scheme: dark)" 
-      srcset="https://github-readme-stats.vercel.app/api?username=JunaidUsmani2468&show_icons=true&locale=en&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117"
+      srcset="https://junaid-readme-stats.vercel.app/api?username=JunaidUsmani2468&show_icons=true&locale=en&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117"
     />
     <source 
       media="(prefers-color-scheme: light)" 
-      srcset="https://github-readme-stats.vercel.app/api?username=JunaidUsmani2468&show_icons=true&locale=en&theme=default&hide_border=true&bg_color=FFFFFF"
+      srcset="https://junaid-readme-stats.vercel.app/api?username=JunaidUsmani2468&show_icons=true&locale=en&theme=default&hide_border=true&bg_color=FFFFFF"
     />
     <img 
-      src="https://github-readme-stats.vercel.app/api?username=JunaidUsmani2468&show_icons=true&locale=en&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117" 
+      src="https://junaid-readme-stats.vercel.app/api?username=JunaidUsmani2468&show_icons=true&locale=en&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117" 
       alt="Junaid Usmani's GitHub Stats" 
     />
   </picture>
@@ -210,14 +210,14 @@ I'm a passionate **Full-Stack Web Developer**. I enjoy building scalable web app
   <picture>
     <source 
       media="(prefers-color-scheme: dark)" 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=JunaidUsmani2468&layout=compact&langs_count=7&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117"
+      srcset="https://junaid-readme-stats.vercel.app/api/top-langs?username=JunaidUsmani2468&layout=compact&langs_count=7&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117"
     />
     <source 
       media="(prefers-color-scheme: light)" 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=JunaidUsmani2468&layout=compact&langs_count=7&theme=default&hide_border=true&bg_color=FFFFFF"
+      srcset="https://junaid-readme-stats.vercel.app/api/top-langs?username=JunaidUsmani2468&layout=compact&langs_count=7&theme=default&hide_border=true&bg_color=FFFFFF"
     />
     <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=JunaidUsmani2468&layout=compact&langs_count=7&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117" 
+      src="https://junaid-readme-stats.vercel.app/api/top-langs?username=JunaidUsmani2468&layout=compact&langs_count=7&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117" 
       alt="Junaid Usmani's Top Languages" 
     />
   </picture>
