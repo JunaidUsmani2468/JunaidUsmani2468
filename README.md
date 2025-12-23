@@ -228,7 +228,7 @@ I'm a passionate **Full-Stack Web Developer**. I enjoy building scalable web app
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" style="width: 100%; height: 2px;" />
 
 <h3 align="center">
-  <code>Made with 💖 by <a href="https://www.linkedin.com/in/junaid-developer" target="_blank">Junaid</a>;</code>
+  Made with 💖 by <a href="https://www.linkedin.com/in/junaid-developer" target="_blank">Junaid</a>
 </h3>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" style="width: 100%; height: 2px;" />
