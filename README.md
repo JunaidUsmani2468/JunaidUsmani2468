@@ -93,7 +93,7 @@ I'm a passionate **Full-Stack Web Developer**. I enjoy building scalable web app
   </tr>
 </table>
 
-<br><br>
+<br>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" style="width: 100%; height: 2px;" />
 
