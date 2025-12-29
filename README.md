@@ -231,7 +231,7 @@ I'm a passionate **Full-Stack Web Developer**. I enjoy building scalable web app
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://nirzak-streak-stats.vercel.app/?user=JunaidUsmani2468&theme=default&hide_border=false"
+      srcset="https://nirzak-streak-stats.vercel.app/?user=JunaidUsmani2468&theme=default"
     />
     <img
       src="https://nirzak-streak-stats.vercel.app/?user=JunaidUsmani2468&theme=dark&hide_border=false"
@@ -240,6 +240,7 @@ I'm a passionate **Full-Stack Web Developer**. I enjoy building scalable web app
     />
   </picture>
 </p>
+      <!-- srcset="https://nirzak-streak-stats.vercel.app/?user=JunaidUsmani2468&theme=default&hide_border=false" -->
 
 <div align="center">
   <picture>
