@@ -68,115 +68,30 @@ I'm a passionate **Full-Stack Web Developer**. I enjoy building scalable web app
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" style="width: 100%; height: 2px;" />
 
-### 🚀 Languages and Tools:
+### 💻 Tech Stack:
 
-<div align="center">
-
-  <h3>🎨 Frontend</h3>
-  <table>
-    <tr>
-      <td align="center" width="100" height="100">
-        <img src="https://skillicons.dev/icons?i=html" width="60" height="60" alt="HTML5" />
-      </td>
-      <td align="center" width="100" height="100">
-        <img src="https://skillicons.dev/icons?i=css" width="60" height="60" alt="CSS3" />
-      </td>
-      <td align="center" width="100" height="100">
-        <img src="https://skillicons.dev/icons?i=js" width="60" height="60" alt="JavaScript" />
-      </td>
-    </tr>
-    <tr>
-      <td>
-        HTML5<br><sub>The-Skeleton</sub>
-      </td>
-      <td>
-        CSS<br><sub>The-Stylist</sub>
-      </td>
-      <td>
-        JavaScript<br><sub>The-Engine</sub>
-      </td>
-    </tr>
-  </table>
-
-  <h3>⚙️ Backend</h3>
-  <table>
-    <tr>
-      <td align="center" width="100" height="100">
-        <img src="https://skillicons.dev/icons?i=express" width="60" height="60" alt="Express.js" />
-      </td>
-      <td align="center" width="100" height="100">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="60" height="60" alt="Node.js" />
-      </td>
-    </tr>
-    <tr>
-      <td>
-        Express<br><sub>API-Builder</sub>
-      </td>
-      <td>
-        Node.js<br><sub>Runtime-Power</sub>
-      </td>
-    </tr>
-  </table>
-
-  <h3>🗄️ Database</h3>
-  <table>
-    <tr>
-      <td align="center" width="100" height="100">
-        <img src="https://skillicons.dev/icons?i=mysql" width="60" height="60" alt="MySQL" />
-      </td>
-       <td align="center" width="100" height="100">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="60" height="60" alt="MongoDB" />
-      </td>
-    </tr>
-    <tr>
-      <td>
-        MySQL<br><sub>Relational-Champ</sub>
-      </td>
-      <td>
-        MongoDB<br><sub>Document-Ace</sub>
-      </td>
-    </tr>
-  </table>
-  
-  <h3>🔄 Version Control</h3>
-  <table>
-    <tr>
-      <td align="center" width="100" height="100">
-        <img src="https://skillicons.dev/icons?i=git" width="60" height="60" alt="Git" />
-      </td>
-      <td align="center" width="100" height="100">
-        <img src="https://skillicons.dev/icons?i=github" width="60" height="60" alt="GitHub" />
-      </td>
-    </tr>
-    <tr>
-      <td>
-        Git<br><sub>Track-Changes</sub>
-      </td>
-      <td>
-        GitHub<br><sub>Code's-Home</sub>
-      </td>
-    </tr>
-  </table>
-  <h3>🛠️ Frameworks & Libraries</h3>
-  <table>
-    <tr>
-      <td align="center" width="100" height="100">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="60" height="60" alt="Bootstrap" />
-      </td>
-      <td align="center" width="100" height="100">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="60" height="60" alt="Tailwind CSS" />
-      </td>
-    </tr>
-    <tr>
-      <td>
-        Bootstrap<br><sub>Classic-Grids</sub>
-      </td>
-      <td>
-        Tailwind<br><sub>Utility First</sub>
-      </td>
-    </tr>
-  </table>
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="90"><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,js&theme=dark&perline=10" /></td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark&perline=10" /></td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><b>Database</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark&perline=10" /></td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><b>Version Control</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github&theme=dark&perline=10" /></td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><b>Frameworks & Libraries</b></td>
+    <td><img src="https://skillicons.dev/icons?i=bootstrap,tailwind&theme=dark&perline=10" /></td>
+  </tr>
+</table>
 
 <br><br>
 
