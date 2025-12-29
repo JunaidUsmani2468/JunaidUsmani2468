@@ -223,6 +223,31 @@ I'm a passionate **Full-Stack Web Developer**. I enjoy building scalable web app
   </picture>
 </p>
 
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=JunaidUsmani2468&theme=dark&hide_border=false" width="500px" />
+</p>
+
+<!-- <p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=JunaidUsmani2468&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
+</p> -->
+
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/JunaidUsmani2468/JunaidUsmani2468/main/assets/github-contribution-grid-snake.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/JunaidUsmani2468/JunaidUsmani2468/main/assets/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="github contribution grid snake animation"
+      src="https://raw.githubusercontent.com/JunaidUsmani2468/JunaidUsmani2468/main/assets/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</div>
+
 <br>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" style="width: 100%; height: 2px;" />
