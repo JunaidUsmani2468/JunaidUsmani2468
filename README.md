@@ -73,23 +73,23 @@ I'm a passionate **Full-Stack Web Developer**. I enjoy building scalable web app
 <table align="center">
   <tr>
     <td align="center" width="90"><b>Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=html,css,js&theme=dark&perline=10" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html,css,js&theme=dark&perline=10" /></td>
   </tr>
   <tr>
     <td align="center" width="90"><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark&perline=10" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark&perline=10" /></td>
   </tr>
   <tr>
     <td align="center" width="90"><b>Database</b></td>
-    <td><img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark&perline=10" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark&perline=10" /></td>
   </tr>
   <tr>
     <td align="center" width="90"><b>Tools</b></td>
-    <td><img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark&perline=10" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode,npm&theme=dark&perline=10" /></td>
   </tr>
   <tr>
     <td align="center" width="90"><b>Frameworks & Libraries</b></td>
-    <td><img src="https://skillicons.dev/icons?i=bootstrap,tailwind&theme=dark&perline=10" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap,tailwind&theme=dark&perline=10" /></td>
   </tr>
 </table>
 
