@@ -231,6 +231,8 @@ I'm a passionate **Full-Stack Web Developer**. I enjoy building scalable web app
   <img src="https://github-contributor-stats.vercel.app/api?username=JunaidUsmani2468&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
 </p> -->
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" style="width: 100%; height: 2px;" />
+
 <div align="center">
   <picture>
     <source
