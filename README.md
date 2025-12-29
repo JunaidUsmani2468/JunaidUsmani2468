@@ -89,7 +89,7 @@ I'm a passionate **Full-Stack Web Developer**. I enjoy building scalable web app
   </tr>
   <tr>
     <td align="center" width="90"><b>Tools</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=vscode,npm&theme=dark&perline=10" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vscode,npm,vercel&theme=dark&perline=10" /></td>
   </tr>
   <tr>
     <td align="center" width="90"><b>Frameworks & Libraries</b></td>
