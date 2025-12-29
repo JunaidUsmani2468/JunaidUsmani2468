@@ -223,41 +223,6 @@ I'm a passionate **Full-Stack Web Developer**. I enjoy building scalable web app
   </picture>
 </p>
 
-<table align="center" border="0">
-  <tr>
-    <td align="center" width="50%">
-      <picture>
-        <source
-          media="(prefers-color-scheme: dark)"
-          srcset="https://junaid-readme-stats.vercel.app/api?username=JunaidUsmani2468&show_icons=true&locale=en&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117" 
-        />
-        <source
-          media="(prefers-color-scheme: light)"
-          srcset="https://junaid-readme-stats.vercel.app/api?username=JunaidUsmani2468&show_icons=true&locale=en&theme=default&hide_border=true&bg_color=FFFFFF" 
-        />
-        <img
-          src="https://junaid-readme-stats.vercel.app/api?username=JunaidUsmani2468&show_icons=true&locale=en&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117" alt="Junaid Stats" 
-        />
-      </picture>
-    </td>
-    <td align="center" width="50%">
-      <picture>
-        <source
-          media="(prefers-color-scheme: dark)"
-          srcset="https://junaid-readme-stats.vercel.app/api/top-langs?username=JunaidUsmani2468&layout=compact&langs_count=7&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117"
-        />
-        <source
-          media="(prefers-color-scheme: light)"
-          srcset="https://junaid-readme-stats.vercel.app/api/top-langs?username=JunaidUsmani2468&layout=compact&langs_count=7&theme=default&hide_border=true&bg_color=FFFFFF" 
-        />
-        <img
-          src="https://junaid-readme-stats.vercel.app/api/top-langs?username=JunaidUsmani2468&layout=compact&langs_count=7&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117" alt="Top Languages" 
-        />
-      </picture>
-    </td>
-  </tr>
-</table>
-
 <p align="center">
   <picture>
     <source
