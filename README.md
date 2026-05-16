@@ -146,14 +146,14 @@ I'm a passionate **Full-Stack Web Developer**. I enjoy building scalable web app
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://nirzak-streak-stats.vercel.app/?user=JunaidUsmani2468&theme=dark&hide_border=false"
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=JunaidUsmani2468&theme=tokyonight&hide_border=true"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://nirzak-streak-stats.vercel.app/?user=JunaidUsmani2468&theme=default"
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=JunaidUsmani2468&theme=default&hide_border=true"
     />
     <img
-      src="https://nirzak-streak-stats.vercel.app/?user=JunaidUsmani2468&theme=dark&hide_border=false"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=JunaidUsmani2468&theme=tokyonight&hide_border=true"
       width="500px"
       alt="Junaid Streak Stats"
     />
