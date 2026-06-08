@@ -72,8 +72,12 @@ I'm a passionate **Full-Stack Web Developer**. I enjoy building scalable web app
 
 <table align="center">
   <tr>
+    <td align="center" width="90"><b>Languages</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js,java&theme=dark&perline=10" /></td>
+  </tr>
+  <tr>
     <td align="center" width="90"><b>Frontend</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=html,css,js&theme=dark&perline=10" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html,css&theme=dark&perline=10" /></td>
   </tr>
   <tr>
     <td align="center" width="90"><b>Backend</b></td>
